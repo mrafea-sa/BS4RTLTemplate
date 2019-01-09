@@ -1,0 +1,23 @@
+{
+  "name": "bs4-rtl-starter-package",
+  "version": "1.0.0",
+  "description": "This is a Starter Template for RTL Bootstrap with GULP Task Runner",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "AMSH",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "font-awesome": "^4.7.0",
+    "hbootstrap4rtl": "^1.0.4",
+    "jquery": "^3.3.1",
+    "tether": "^1.4.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
